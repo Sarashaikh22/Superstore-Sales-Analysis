@@ -52,4 +52,4 @@ This analysis highlights the importance of evaluating both revenue and profitabi
 ---
 
 Superstore-Sales-Analysis
-<img width="1389" height="802" alt="image" src="https://github.com/user-attachments/assets/4429b395-5e52-4328-bce2-6c1a9d079780" />
+<img width="951" height="539" alt="image" src="https://github.com/user-attachments/assets/24dd9af0-bdd3-4f48-9bab-87d3efde0262" />
